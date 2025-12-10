@@ -7,7 +7,7 @@ A comprehensive Java-based school management system that demonstrates the practi
 This project was developed as a group effort by the following members:
 
 - Kamau Vebastian Kariuki - CT206/119926/24
-- Mbaluka Peter Mutaua - CT206/119920/24
+- Mbaluka Peter Mutava - CT206/119920/24
 - Wanjiru Irwin Waweru - CT206/119910/24
 - Maina Martin Gachuhi - CT206/119951/24
 - Faith Wajiku - CT206/119961/24
