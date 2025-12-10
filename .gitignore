@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.class
+
+# Ignore build output
+out/
+build/
+target/
+
+# Ignore IDE files
+*.iml
+*.log
+*.DS_Store
+
+# Ignore temporary
+TODO.md
