@@ -2,6 +2,16 @@
 
 A comprehensive Java-based school management system that demonstrates the practical application of fundamental data structures and algorithms. This system manages student records, course scheduling, fee tracking, library resources, and performance analytics for Meru University.
 
+## Group Members
+
+This project was developed as a group effort by the following members:
+
+- Kamau Vebastian Kariuki - CT206/119926/24
+- Mbaluka Peter Mutaua - CT206/119920/24
+- Wanjiru Irwin Waweru - CT206/119910/24
+- Maina Martin Gachuhi - CT206/119951/24
+- Faith Wajiku - CT206/119961/24
+
 ## Features
 
 ### 🏫 Student Registry
